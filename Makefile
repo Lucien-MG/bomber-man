@@ -6,7 +6,7 @@ CFLAGS = -Wall -Wextra
 LDFLAGS = 
 LDLIBS = -lSDL2 `sdl2-config --cflags --libs`
 
-EXE = bomber-man
+EXE = bomber-man.exe
 
 all: ${EXE}
 
