@@ -1,2 +1,2 @@
 # bomber-man
-Fun project for improving skills in c.
+Fun project for improving our skills in c.
