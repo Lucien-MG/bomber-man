@@ -1,7 +1,7 @@
 # Makefile
 
 # Compiling options:
-release = 1 
+# release = 1 
 
 # Command:
 MKDIR_P = mkdir -p
