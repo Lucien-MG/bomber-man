@@ -24,7 +24,7 @@ RELEASE_FLAGS =
 CC = gcc
 CFLAGS = -Wall -Wextra -fsanitize=address -I ${INCLUDE_FOLDER}
 LDFLAGS = 
-LDLIBS = -lSDL2 `sdl2-config --cflags --libs`
+LDLIBS = -lSDL2 -lSDL2-image `sdl2-config --cflags --libs`
 
 EXE = bomber-man
 
